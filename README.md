@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aaron Tristancho Navarro 👋
 
-<!--
-**aarontristancho/aarontristancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Software Developer | Java Backend
 
-Here are some ideas to get you started:
+Software development student focused on backend engineering, Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building REST APIs, working with relational databases and developing practical software solutions.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Java, Kotlin, SQL, JavaScript
+- **Backend:** Spring Boot, Spring Data JPA, Hibernate
+- **Databases:** PostgreSQL
+- **Testing:** JUnit, Mockito
+- **Tools:** Docker, Git, Maven, Flyway
+- **Frontend:** React, Angular
+
+### 🚀 Featured Projects
+
+**Todo REST API**
+- Java, Spring Boot, PostgreSQL and React.
+- REST API, automated testing and Docker deployment.
+
+**VibrantPadel**
+- Java, Spring Boot, Kotlin and PostgreSQL.
+- Android application for padel club management.
+- Currently in development.
+
+### 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/aaron-tristancho-navarro
+- Email: aarontristancho@gmail.com
